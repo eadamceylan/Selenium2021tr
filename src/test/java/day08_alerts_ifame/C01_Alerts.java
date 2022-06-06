@@ -1,4 +1,4 @@
-package day08_alerts;
+package day08_alerts_ifame;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
@@ -10,7 +10,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.sql.Driver;
 import java.time.Duration;
 
 public class C01_Alerts {
